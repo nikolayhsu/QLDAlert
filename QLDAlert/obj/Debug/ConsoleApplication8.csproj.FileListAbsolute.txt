@@ -1,0 +1,15 @@
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csproj.ResolveComReference.cache
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\NPOI.dll
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\NPOI.OOXML.dll
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\NPOI.xml
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\NPOI.OOXML.xml
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache

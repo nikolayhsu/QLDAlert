@@ -1,0 +1,15 @@
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\QLDAlert\QLDAlert\bin\x86\Release\QLDAlert.exe.config
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\QLDAlert\QLDAlert\bin\x86\Release\QLDAlert.exe
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\QLDAlert\QLDAlert\bin\x86\Release\QLDAlert.pdb
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\QLDAlert\QLDAlert\bin\x86\Release\NPOI.dll
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\QLDAlert\QLDAlert\bin\x86\Release\NPOI.OOXML.dll
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\QLDAlert\QLDAlert\bin\x86\Release\NPOI.OpenXml4Net.dll
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\QLDAlert\QLDAlert\bin\x86\Release\NPOI.OpenXmlFormats.dll
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\QLDAlert\QLDAlert\bin\x86\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\QLDAlert\QLDAlert\bin\x86\Release\NPOI.xml
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\QLDAlert\QLDAlert\bin\x86\Release\NPOI.OOXML.xml
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\QLDAlert\QLDAlert\bin\x86\Release\NPOI.OpenXml4Net.xml
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\QLDAlert\QLDAlert\obj\x86\Release\QLDAlert.csproj.ResolveComReference.cache
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\QLDAlert\QLDAlert\obj\x86\Release\QLDAlert.exe
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\QLDAlert\QLDAlert\obj\x86\Release\QLDAlert.pdb
+C:\Users\NikoNiko\Documents\Visual Studio 2012\Projects\QLDAlert\QLDAlert\obj\x86\Release\QLDAlert.csprojResolveAssemblyReference.cache
